@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Categories=Software
+Name=RfidConcentrador
+Icon=/home/soporte/rfidconcentrador-goriental/img/saycoa.png
+Exec=/home/soporte/rfidconcentrador-goriental/rfidconcentrador.sh
